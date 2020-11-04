@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Massey Game Jam IV - Results",
+      "message": {
+        "embeds": [
+          {
+            "title": "Massey Game Jam IV - Results",
+            "description": "The Massey Game Jam IV Winners are:\n:first_place: Paranormal Entities by AI Hack (4)\n:second_place: A Walk In The Dark by Such_Nick (1)\n:third_place: What is that? by MiniGloathj (3)\n\nCongratulations to the top 3 games! We've also posted the information for this game jam in the <#743132168972402759> channel.",
+            "color": 16753920,
+            "author": {
+              "name": "Massey Game Jam Results",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/743635440447520878/767558419321192508/a_5abff6ac9d7c26f562030a50c1f82a3f.gif"
+            },
+            "timestamp": "2020-11-04T01:27:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
